@@ -1,0 +1,35 @@
+html {
+  font-size: 10px; /* px means "pixels": the base font size is now 10 pixels high  */
+  font-family: "Racing Sans One", cursive; /* this should be the rest of the output you got from Google fonts */
+  background-color: yellowgreen;
+}
+
+body {
+  width: 600px;
+  margin: 10px auto;
+  background-color: #FF9500;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  text-shadow: 3px 3px 1px red;
+  margin: 20px 0px;
+  padding: 20px 0px;
+  background-color: aliceblue;
+}
+
+img {
+  width: 500px;
+  display: block;
+  margin: 0 auto;
+  background-color: springgreen;
+}
+
+p, li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
